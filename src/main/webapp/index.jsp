@@ -2,7 +2,7 @@
 <body>
 <h1><font color='blue'> Welcome to Datapro <font></h1>
 
-<a href="https://datapro.in/course-enquiry/">Click Here To enquiry</a>
+<a href="https://datapro.in/">Click Here To enquiry</a>
   
   <h2> Call Us : + 9491449072</h2>
   
