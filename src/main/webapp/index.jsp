@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to Datapro - Software Training Institute <font></h1>
+<h1><font color='blue'> Welcome to Datapro - Software Training Institute in town <font></h1>
 
 <a href="https://datapro.in/course-enquiry/">Click Here To enquiry</a>
   
