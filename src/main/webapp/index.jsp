@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to Datapro Computers vizag<font></h1>
+<h1><font color='blue'> Welcome to Datapro Computers info<font></h1>
 
 <a href="https://datapro.in/">Click Here To enquiry</a>
   
