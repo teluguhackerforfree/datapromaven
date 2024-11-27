@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 9491449072</h2>
   
-  <h3> Off Location : Dwaraka nagar, Vizag </h3>
+  <h3> Off Location : Dwaraka nagar, Visakhapatnam </h3>
 
 </body>
 </html>
